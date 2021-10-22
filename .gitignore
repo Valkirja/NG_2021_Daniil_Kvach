@@ -3,6 +3,7 @@
 *.bin/*
 *.obj/*
 *.cbp
+*.layout
 
 # Compiled Object files
 *.slo
