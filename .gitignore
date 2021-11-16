@@ -4,6 +4,7 @@
 *.obj/*
 *.cbp
 *.layout
+*.depend
 
 # Compiled Object files
 *.slo
